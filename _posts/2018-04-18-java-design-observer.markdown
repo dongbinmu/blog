@@ -14,7 +14,7 @@ tags: [设计模式]
 ![observer1.png]({{site.baseurl}}/assets/img/design/observer1.png)
 
 
-其中Suject为目标类，观察者的集合类吧，包含了添加观察者，移除观察者，具体的通知方式。
+其中 Suject为目标类，观察者的集合类吧，包含了添加观察者，移除观察者，具体的通知方式。
 SubjectImpl为Subject的实现类，实现了具体如何通知其他观察者的
 
 Observer为所有观察者的接口，定义了获取观察者名字的方法。以及接收和发送的方法。具体的属性根据需求去定义。
