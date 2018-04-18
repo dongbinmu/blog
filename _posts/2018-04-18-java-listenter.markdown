@@ -16,7 +16,6 @@ tags: [设计模式]
 事件源注册到监听器，组件被外部事件触发，产生一个相应的事件对象，并把对象传递给与之关联的事件处理器，事件处理器启动，并执行相关的代码来处理事件
 
 #### 实现
-github地址  https://github.com/dongbinmu/design-pattern-demo
 
 具体实现UML类图
 ![listener1.png]({{site.baseurl}}/assets/img/design/listener1.png)
@@ -136,4 +135,6 @@ public class ListenerManager {
 ```
 
 
-参考  https://blog.csdn.net/tfygg/article/details/51638933
+github地址：[https://github.com/dongbinmu/design-pattern-demo](https://github.com/dongbinmu/design-pattern-demo)
+
+参考  [https://blog.csdn.net/tfygg/article/details/51638933](https://blog.csdn.net/tfygg/article/details/51638933)
